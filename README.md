@@ -1,2 +1,5 @@
-# --C-
-一个原神抽卡模拟器，实时更新。
+# One Genshin Draw Simulator
+
+This is a simulatar powered by c++.
+
+<!-- I love playing genshin -->
